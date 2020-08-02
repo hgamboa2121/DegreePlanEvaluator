@@ -56,3 +56,5 @@ These 6 sections are divided with comments such as the following:
 
 	/*
 	 *****************************************************************************************************************************
+### Citations
+CSS template used https://templated.co/industrious
